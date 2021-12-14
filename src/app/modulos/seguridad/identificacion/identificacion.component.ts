@@ -26,7 +26,7 @@ export class IdentificacionComponent implements OnInit {
     private servicioSeguridad: SeguridadService,
     private router :Router
     ) {
-      this.siteKey="6LdjdYkdAAAAAMIXJAdokj9pHt1am2GTSu1ZTFTI";
+      this.siteKey="6Lcvr3YdAAAAAKfn2aR-jujT_PqfDWHPuTmdouur";
      }
 
   ngOnInit(): void {
